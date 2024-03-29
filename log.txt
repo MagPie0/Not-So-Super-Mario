@@ -1,0 +1,449 @@
+
+==============
+gmckg
+ggmxg
+mccgW
+kkcxm
+mmkmk
+==============
+
+==============
+gBgmg
+xgkmg
+kcxkg
+ckmcx
+ckggc
+==============
+Mario is currently at (3, 0)
+
+==============
+gmckg
+ggmxg
+mccgW
+Hkcxm
+mmkmk
+==============
+Level: 0
+Mario is at (3, 0)
+Mario is at Power Level: 0
+Mario has 3 lives left
+Mario has 0 coins
+Mario will fight a koopa
+Mario has lost the fight!
+Mario has lost a life from his fight with a Koopa
+
+Mario is moving left
+==============
+gmckg
+ggmxg
+mccgW
+kkcxH
+mmkmk
+==============
+Level: 0
+Mario is at (3, 4)
+Mario is at Power Level: 0
+Mario has 2 lives left
+Mario has 0 coins
+Mario found a mushroom!
+Mario is moving left
+==============
+gmckg
+ggmxg
+mccgW
+kkcHx
+mmkmk
+==============
+Level: 0
+Mario is at (3, 3)
+Mario is at Power Level: 1
+Mario has 2 lives left
+Mario has 0 coins
+Mario is on an empty space
+Mario is moving down
+==============
+gmckg
+ggmxg
+mccgW
+kkcxx
+mmkHk
+==============
+Level: 0
+Mario is at (4, 3)
+Mario is at Power Level: 1
+Mario has 2 lives left
+Mario has 0 coins
+Mario found a mushroom!
+Mario is moving right
+==============
+gmckg
+ggmxg
+mccgW
+kkcxx
+mmkxH
+==============
+Level: 0
+Mario is at (4, 4)
+Mario is at Power Level: 2
+Mario has 2 lives left
+Mario has 0 coins
+Mario will fight a koopa
+Mario has won the fight against a Koopa!
+
+Mario is moving right
+==============
+gmckg
+ggmxg
+mccgW
+kkcxx
+Hmkxx
+==============
+Level: 0
+Mario is at (4, 0)
+Mario is at Power Level: 2
+Mario has 2 lives left
+Mario has 0 coins
+Mario found a mushroom!
+Mario is moving down
+==============
+Hmckg
+ggmxg
+mccgW
+kkcxx
+xmkxx
+==============
+Level: 0
+Mario is at (0, 0)
+Mario is at Power Level: 2
+Mario has 2 lives left
+Mario has 0 coins
+Mario will fight a goomba
+Mario has lost the fight!
+Mario has lost a power level from his fight with a Goomba
+
+Mario is moving left
+==============
+gmckH
+ggmxg
+mccgW
+kkcxx
+xmkxx
+==============
+Level: 0
+Mario is at (0, 4)
+Mario is at Power Level: 1
+Mario has 2 lives left
+Mario has 0 coins
+Mario will fight a goomba
+Mario has won the fight against a Goomba!
+
+Mario is moving up
+==============
+gmckx
+ggmxg
+mccgW
+kkcxx
+xmkxH
+==============
+Level: 0
+Mario is at (4, 4)
+Mario is at Power Level: 1
+Mario has 2 lives left
+Mario has 0 coins
+Mario is on an empty space
+Mario is moving left
+==============
+gmckx
+ggmxg
+mccgW
+kkcxx
+xmkHx
+==============
+Level: 0
+Mario is at (4, 3)
+Mario is at Power Level: 1
+Mario has 2 lives left
+Mario has 0 coins
+Mario is on an empty space
+Mario is moving up
+==============
+gmckx
+ggmxg
+mccgW
+kkcHx
+xmkxx
+==============
+Level: 0
+Mario is at (3, 3)
+Mario is at Power Level: 1
+Mario has 2 lives left
+Mario has 0 coins
+Mario is on an empty space
+Mario is moving right
+==============
+gmckx
+ggmxg
+mccgW
+kkcxH
+xmkxx
+==============
+Level: 0
+Mario is at (3, 4)
+Mario is at Power Level: 1
+Mario has 2 lives left
+Mario has 0 coins
+Mario is on an empty space
+Mario is moving up
+==============
+gmckx
+ggmxg
+mccgH
+kkcxx
+xmkxx
+==============
+Level: 0
+Mario is at (2, 4)
+Mario is at Power Level: 1
+Mario has 2 lives left
+Mario has 0 coins
+Mario has found a warp pipe!
+==============
+gBgmg
+xgkmg
+kcxkH
+ckmcx
+ckggc
+==============
+Mario is moving left
+==============
+gBgmg
+xgkmg
+kcxHg
+ckmcx
+ckggc
+==============
+Level: 1
+Mario is at (2, 3)
+Mario is at Power Level: 1
+Mario has 2 lives left
+Mario has 0 coins
+Mario will fight a koopa
+Mario has won the fight against a Koopa!
+
+Mario is moving down
+==============
+gBgmg
+xgkmg
+kcxxg
+ckmHx
+ckggc
+==============
+Level: 1
+Mario is at (3, 3)
+Mario is at Power Level: 1
+Mario has 2 lives left
+Mario has 0 coins
+Mario found a coin!
+Mario is moving left
+==============
+gBgmg
+xgkmg
+kcxxg
+ckHxx
+ckggc
+==============
+Level: 1
+Mario is at (3, 2)
+Mario is at Power Level: 1
+Mario has 2 lives left
+Mario has 1 coins
+Mario found a mushroom!
+Mario is moving left
+==============
+gBgmg
+xgkmg
+kcxxg
+cHxxx
+ckggc
+==============
+Level: 1
+Mario is at (3, 1)
+Mario is at Power Level: 2
+Mario has 2 lives left
+Mario has 1 coins
+Mario will fight a koopa
+Mario has lost the fight!
+Mario has lost a power level from his fight with a Koopa
+
+Mario is moving left
+==============
+gBgmg
+xgkmg
+kcxxg
+Hkxxx
+ckggc
+==============
+Level: 1
+Mario is at (3, 0)
+Mario is at Power Level: 1
+Mario has 2 lives left
+Mario has 1 coins
+Mario found a coin!
+Mario is moving down
+==============
+gBgmg
+xgkmg
+kcxxg
+xkxxx
+Hkggc
+==============
+Level: 1
+Mario is at (4, 0)
+Mario is at Power Level: 1
+Mario has 2 lives left
+Mario has 2 coins
+Mario found a coin!
+Mario is moving up
+==============
+gBgmg
+xgkmg
+kcxxg
+Hkxxx
+xkggc
+==============
+Level: 1
+Mario is at (3, 0)
+Mario is at Power Level: 1
+Mario has 2 lives left
+Mario has 3 coins
+Mario is on an empty space
+Mario is moving left
+==============
+gBgmg
+xgkmg
+kcxxg
+xkxxH
+xkggc
+==============
+Level: 1
+Mario is at (3, 4)
+Mario is at Power Level: 1
+Mario has 2 lives left
+Mario has 3 coins
+Mario is on an empty space
+Mario is moving left
+==============
+gBgmg
+xgkmg
+kcxxg
+xkxHx
+xkggc
+==============
+Level: 1
+Mario is at (3, 3)
+Mario is at Power Level: 1
+Mario has 2 lives left
+Mario has 3 coins
+Mario is on an empty space
+Mario is moving left
+==============
+gBgmg
+xgkmg
+kcxxg
+xkHxx
+xkggc
+==============
+Level: 1
+Mario is at (3, 2)
+Mario is at Power Level: 1
+Mario has 2 lives left
+Mario has 3 coins
+Mario is on an empty space
+Mario is moving down
+==============
+gBgmg
+xgkmg
+kcxxg
+xkxxx
+xkHgc
+==============
+Level: 1
+Mario is at (4, 2)
+Mario is at Power Level: 1
+Mario has 2 lives left
+Mario has 3 coins
+Mario will fight a goomba
+Mario has won the fight against a Goomba!
+
+Mario is moving down
+==============
+gBHmg
+xgkmg
+kcxxg
+xkxxx
+xkxgc
+==============
+Level: 1
+Mario is at (0, 2)
+Mario is at Power Level: 1
+Mario has 2 lives left
+Mario has 3 coins
+Mario will fight a goomba
+Mario has won the fight against a Goomba!
+
+Mario is moving left
+==============
+gHxmg
+xgkmg
+kcxxg
+xkxxx
+xkxgc
+==============
+Level: 1
+Mario is at (0, 1)
+Mario is at Power Level: 1
+Mario has 2 lives left
+Mario has 3 coins
+Mario is fighing the BOSS
+Mario has beat Bowser!!!
+
+Mario is moving down
+==============
+gBxmg
+xHkmg
+kcxxg
+xkxxx
+xkxgc
+==============
+Level: 1
+Mario is at (1, 1)
+Mario is at Power Level: 1
+Mario has 2 lives left
+Mario has 3 coins
+Mario will fight a goomba
+Mario has won the fight against a Goomba!
+
+Mario is moving up
+==============
+gHxmg
+xxkmg
+kcxxg
+xkxxx
+xkxgc
+==============
+Level: 1
+Mario is at (0, 1)
+Mario is at Power Level: 1
+Mario has 2 lives left
+Mario has 3 coins
+Mario is fighing the BOSS
+Mario has lost the fight!
+Mario has lost a power level from his fight with the Boss
+
+Mario has lost the fight!
+Mario has lost a life from his fight with the Boss
+
+Mario has lost the fight!
+Mario has lost a life from his fight with the Boss
+
+Mario has lost D:

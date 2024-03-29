@@ -1,0 +1,37 @@
+Margaret "Maggie" Hillebrecht
+2455754
+hillebrecht@chapman.edu
+CPSC 350 Section 1
+
+A2
+
+Source Files:
+a.out
+FileTakeIn.cpp
+FileTakeIn.h
+input-spec.txt
+Levels.cpp
+Levels.h
+log.txt
+main.cpp
+Mario.cpp
+Mario.h
+OutFile.cpp
+OutFile.h
+
+References:
+I spoke with Professor Rene in his office hours during the begining of my project about how to breakdown the project
+as well as how I would grid the levels and use arrays.
+
+I used ChatGPT to bug fix so much and just to learn about how rand() works and 
+the streambuf* since I am not super familiar with that. Most of my conversation was just inputting my code or and
+error I got in terminal and asking why/what was wrong.
+https://chat.openai.com/share/52032025-d359-40e4-8400-cb651f00e670
+
+As mentioned in my comments, I got help from Kaye Galang with the OutFile starting process instead of using
+ofstream outFs >>, to write out everything my program was doing.
+
+I also got a little bit of help from Kalin Richardson when it came to placing Mario into the level
+in Levels method DisplayLevel. I was making it a lot more complicated and it ultimately saved my project.
+
+
